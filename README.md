@@ -1,1 +1,1 @@
-# amazon-clone 
+# game rock paper scissor.
